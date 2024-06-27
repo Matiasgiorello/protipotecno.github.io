@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  
+
+}
+
+canvas {
+ display: block;
+
+}
+
+.cuadrado{
+width: 200px;
+height: 200px;
+background: #aaa;
+}
+
